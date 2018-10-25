@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="life.LifeShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-25T15:06:28" hostname="Christophers-MacBook-Pro-2.local" time="0.016">
+  <properties/>
+  <testcase name="calculateNextState()" classname="life.LifeShould" time="0.012"/>
+  <testcase name="printTheCurrentStateOfTheWorld()" classname="life.LifeShould" time="0.0"/>
+  <testcase name="initialStateLengthMustMatchDimensions()" classname="life.LifeShould" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
